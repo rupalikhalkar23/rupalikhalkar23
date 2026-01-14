@@ -2,7 +2,7 @@
 <h2 align="left">🌟About Me</h2>
 
 <p align="left">
-👨‍💻 Full-Stack Developer<br><br>
+👩🏻‍💻 Full-Stack Developer<br><br>
 🎓 Currently pursuing <b>B.E. in Computer Engineering</b><br>
 Dr. D. Y. Patil Institute of Technology, Pimpri, Pune<br><br>
 💡 Experienced in Frontend, Backend, Database & Android Development<br>
