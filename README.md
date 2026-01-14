@@ -29,7 +29,7 @@ Government Polytechnic, Nashik<br>
 <h2 align="left">🚀 Projects</h2>
 
 <p align="left">
-📌 <b>Civic Issue Reporting System</b> — Mobile & Web app for reporting civic issues with photo proof, priority tagging & real-time status tracking<br>
+📌 <b>Nagarsathi - Civic Issue Reporting System</b> — Mobile & Web app for reporting civic issues with photo proof, priority tagging & real-time status tracking<br>
 <b>Tech:</b> React · React Native · Supabase<br><br>
 
 📌 <b>AI-Generated Image Detector</b> — CNN-based system to classify real vs AI-generated images with a Flask web interface<br>
